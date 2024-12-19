@@ -31,15 +31,15 @@ export default function ClassNotes() {
       title: "MODULE 4",
       description: "",
       date: "2023-06-05",
-      content: "....",
-      link: ""
+      content: "Potential Energy Surfaces (PES)",
+      link: "https://drive.google.com/drive/folders/1tMLScrSFy367QIXcDFMogyt2ptOGvhWQ?usp=sharing"
     },
     {
       title: "MODULE 5",
       description: "....",
       date: "2023-06-12",
-      content: "This lecture covered topics in astrophysics, including stellar evolution, galaxies, and cosmology.",
-      link: ""
+      content: "Molecular Dynamics",
+      link: "https://drive.google.com/drive/folders/16jPfDe0faGyBf2BZ40Fae-3dmDIOvl8x?usp=sharing"
     }
   ];
 
